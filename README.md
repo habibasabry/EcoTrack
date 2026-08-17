@@ -105,10 +105,10 @@ Enter your choice (1-6):
 
 ## ⚙️ Technologies Used
 
-🐍 **Python** - Main programming language
-📦 **JSON / File Storage** - Data persistence
-🧪 **Python Testing** - Testing system functions
-🔧 **Git & GitHub** - Version control and collaboration
+* 🐍 **Python** - Main programming language
+* 📦 **JSON / File Storage** - Data persistence
+* 🧪 **Python Testing** - Testing system functions
+* 🔧 **Git & GitHub** - Version control and collaboration
 
 ---
 
@@ -124,12 +124,12 @@ Enter your choice (1-6):
 
 ## 🔮 Future Improvements
 
-📱 Mobile application support.
-📊 Graphs and visual dashboards.
-☁️ Cloud-based data storage.
-👥 Multiple household/community accounts.
-🏆 Recycling goals and achievements.
-📍 Community recycling centre information.
+* 📱 Mobile application support.
+* 📊 Graphs and visual dashboards.
+* ☁️ Cloud-based data storage.
+* 👥 Multiple household/community accounts.
+* 🏆 Recycling goals and achievements.
+* 📍 Community recycling centre information.
 
 ---
 
