@@ -105,7 +105,7 @@ Enter your choice (1-6):
 
 ## ⚙️ Technologies Used
 
-🐍 **Python** - 	Main programming language
+🐍 **Python** - Main programming language
 📦 **JSON / File Storage** - Data persistence
 🧪 **Python Testing** - Testing system functions
 🔧 **Git & GitHub** - Version control and collaboration
