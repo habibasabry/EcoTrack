@@ -129,13 +129,19 @@ Enter your choice (1-6):
 * ☁️ Cloud-based data storage.
 * 👥 Multiple household/community accounts.
 * 🏆 Recycling goals and achievements.
-* 📍 Community recycling centre information.
+* 📍 Community recycling center information.
 
 ---
 
 ## 📄 License
 
 This project was developed for academic and educational purposes.
+
+---
+
+## 🔍 Quick program Demo Video 
+
+* *insert demo video*
 
 ---
 
