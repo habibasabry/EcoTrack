@@ -1,1 +1,232 @@
-
+[
+    {
+        "date": "2026-08-20",
+        "category": "plastic",
+        "weight_kg": 6.0,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "plastic",
+        "amount": 4.0,
+        "unit": "bottles",
+        "weight_kg": 0.08,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "paper",
+        "amount": 6.0,
+        "unit": "sheets",
+        "weight_kg": 0.03,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "organic",
+        "amount": 1.0,
+        "unit": "kg",
+        "weight_kg": 1.0,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "plastic",
+        "amount": 5.0,
+        "unit": "bottles",
+        "weight_kg": 0.1,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "plastic",
+        "amount": 5.0,
+        "unit": "bottles",
+        "weight_kg": 0.1,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "plastic",
+        "amount": 5.0,
+        "unit": "bottles",
+        "weight_kg": 0.1,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "glass",
+        "amount": 1.4,
+        "unit": "kg",
+        "weight_kg": 1.4,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "glass",
+        "amount": 1.4,
+        "unit": "kg",
+        "weight_kg": 1.4,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "paper",
+        "amount": 7.0,
+        "unit": "sheets",
+        "weight_kg": 0.035,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "landfill",
+        "amount": 10.0,
+        "unit": "kg",
+        "weight_kg": 10.0,
+        "recycled": false
+    },
+    {
+        "date": "2026-08-20",
+        "category": "glass",
+        "amount": 2.0,
+        "unit": "kg",
+        "weight_kg": 2.0,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "plastic",
+        "amount": 4.0,
+        "unit": "bottles",
+        "weight_kg": 0.08,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "metal",
+        "amount": 3.0,
+        "unit": "kg",
+        "weight_kg": 3.0,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "glass",
+        "amount": 5.0,
+        "unit": "kg",
+        "weight_kg": 5.0,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "landfill",
+        "amount": 8.0,
+        "unit": "kg",
+        "weight_kg": 8.0,
+        "recycled": false
+    },
+    {
+        "date": "2026-08-20",
+        "category": "landfill",
+        "amount": 8.0,
+        "unit": "kg",
+        "weight_kg": 8.0,
+        "recycled": false
+    },
+    {
+        "date": "2026-08-20",
+        "category": "paper",
+        "amount": 5.0,
+        "unit": "sheets",
+        "weight_kg": 0.025,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "metal",
+        "amount": 7.0,
+        "unit": "kg",
+        "weight_kg": 7.0,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "glass",
+        "amount": 8.0,
+        "unit": "kg",
+        "weight_kg": 8.0,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "paper",
+        "amount": 7.0,
+        "unit": "sheets",
+        "weight_kg": 0.035,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "paper",
+        "amount": 5.0,
+        "unit": "sheets",
+        "weight_kg": 0.025,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "glass",
+        "amount": 2.0,
+        "unit": "kg",
+        "weight_kg": 2.0,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "paper",
+        "amount": 7.0,
+        "unit": "sheets",
+        "weight_kg": 0.035,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "metal",
+        "amount": 9.0,
+        "unit": "kg",
+        "weight_kg": 9.0,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "metal",
+        "amount": 3.0,
+        "unit": "kg",
+        "weight_kg": 3.0,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "glass",
+        "amount": 5.1,
+        "unit": "kg",
+        "weight_kg": 5.1,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "glass",
+        "amount": 2.0,
+        "unit": "kg",
+        "weight_kg": 2.0,
+        "recycled": true
+    },
+    {
+        "date": "2026-08-20",
+        "category": "glass",
+        "amount": 5.0,
+        "unit": "kg",
+        "weight_kg": 5.0,
+        "recycled": true
+    }
+]
